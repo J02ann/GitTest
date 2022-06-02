@@ -1,2 +1,2 @@
 # GitTest
-For Gti Test
+For Git Test
